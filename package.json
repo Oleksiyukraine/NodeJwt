@@ -39,7 +39,7 @@
     "crypto": "^1.0.1",
     "csvtojson": "^2.0.8",
     "cyrillic-to-translit-js": "^2.1.0",
-    "dompurify": "^1.0.7",
+    "dompurify": "^2.0.15",
     "dotenv-safe": "^6.1.0",
     "dynamic-watermark": "^1.0.0",
     "emailjs": "^2.2.0",
